@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Phan Duc Anh
 - 🌱 I’m currently learning Software Engineering in FPT University
 - 📫 How to reach me :
-- Facebook : https://www.facebook.com/profile.php?id=100049276027890
+- Facebook : https://www.facebook.com/anhpd12
 - Gmail    : pdanh.work@gmail.com
 - Phone    : 0867806182
 <!---
